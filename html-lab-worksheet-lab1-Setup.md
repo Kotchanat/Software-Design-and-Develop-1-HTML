@@ -53,7 +53,7 @@
    <!DOCTYPE html>
    <html>
    <head>
-       <title>ทดสอบ Live Server</title>
+       <title>hi test Live Server</title>
    </head>
    <body>
        <h1>สวัสดี Live Server</h1>
@@ -74,6 +74,6 @@
 #### หมายเหตุ สามารถติดตั้ง Live Preview ของไมโครซอฟต์ แทนการใช้ Live Server เมื่อติดตั้งแล้ว สามารถคลิกเมาส์ด้านขวาที่ไฟล์ HTML เลือกเมนู Show Preview เพื่อดูผลลัพธ์ HTML ได้เช่นกัน
   
 ### บันทึกผลการทดลอง
-[บันทึกภาพหน้าจอของผลลัพธ์การทดลอง]
+
 
 
