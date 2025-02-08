@@ -51,15 +51,14 @@
 2. พิมพ์โค้ด HTML พื้นฐาน:
    ```html
    <!DOCTYPE html>
-   <html>
-   <head>
-       <title>hi test Live Server</title>
-   </head>
-   <body>
-       <h1>สวัสดี Live Server</h1>
-   </body>
-   </html>
-   ```
+<html>
+<head>
+    <title>เว็บเทสของ Kotchanat Noyphan!</title>
+</head>
+<body>
+    <h1>สวัสดี Kotchanat Noyphan!</h1>
+</body>
+</html>
 3. บันทึกไฟล์ (Ctrl+S)
 4. เริ่มใช้งาน Live Server โดยทำวิธีใดวิธีหนึ่ง:
    - คลิกขวาที่ไฟล์ test.html แล้วเลือก "Open with Live Server"
@@ -74,6 +73,7 @@
 #### หมายเหตุ สามารถติดตั้ง Live Preview ของไมโครซอฟต์ แทนการใช้ Live Server เมื่อติดตั้งแล้ว สามารถคลิกเมาส์ด้านขวาที่ไฟล์ HTML เลือกเมนู Show Preview เพื่อดูผลลัพธ์ HTML ได้เช่นกัน
   
 ### บันทึกผลการทดลอง
+![image](https://github.com/user-attachments/assets/8a5ca190-2a4e-4afa-89ee-ea726c9204b0)
 
 
 
