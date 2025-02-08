@@ -30,8 +30,61 @@
    - เส้นคั่นระหว่างเนื้อหา
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
-```html
-[วางโค้ด HTML ที่นี่]
+
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>แนะนำตัวเอง</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #d5ebd5;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .content {
+            background: rgb(221, 157, 173);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        hr {
+            border: 1px solid #e4b6b6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="content">
+        <h1>แนะนำตัวเอง</h1>
+        <h2>ชื่อ-นามสกุล</h2>
+        <p>นางสาวกชณัช น้อยพันธ์</p>
+        <hr>
+
+        <h2>ประวัติการศึกษา</h2>
+        <p>จบระดับชั้นมัธยมศึกษาตอนปลาย โรงเรียนศรียานุสรณ์</p>
+        <p>ปัจจุบันศึกษา สถาบันเทคโนโลยีพระจอมเกล้าคุณทหารลาดกระบัง  คณะครุศาตร์อุตสาหกรรมและเทคโนโลยี สาขาเทคโนโลยีคอมพิวเตอร์ </p>
+        <hr>
+
+        <h2>งานอดิเรก</h2>
+        <ul>
+            <li>ฟังเพลง</li>
+            <li>อ่านหนังสือ</li>
+            <li>ออกกำลังกาย</li>
+        </ul>
+        <hr>
+
+        <h2>เป้าหมายในอนาคต</h2>
+        <p>อยากเป็นคุณครูที่ดีมีจรรยาบรรณ เพื่อให้การเรียนการสอนมีประสิทธิภาพ และช่วยให้นักเรียนสนุกกับการเรียนรู้</p>
+    </div>
+
+</body>
+</html>
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
