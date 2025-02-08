@@ -49,6 +49,7 @@
    - ไปที่ File > Save หรือกด Ctrl+S
    - ตั้งชื่อไฟล์เป็น "test.html"
 2. พิมพ์โค้ด HTML พื้นฐาน:
+    ```html
    <!DOCTYPE html>
 <html>
 <head>
@@ -58,6 +59,7 @@
     <h1>สวัสดี Kotchanat Noyphan!</h1>
 </body>
 </html>
+    ```
 3. บันทึกไฟล์ (Ctrl+S)
 4. เริ่มใช้งาน Live Server โดยทำวิธีใดวิธีหนึ่ง:
    - คลิกขวาที่ไฟล์ test.html แล้วเลือก "Open with Live Server"
