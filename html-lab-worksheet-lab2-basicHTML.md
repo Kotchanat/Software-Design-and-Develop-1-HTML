@@ -35,10 +35,23 @@
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
-[วางโค้ด HTML ที่นี่]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>002 Kotchanat  Website</title>
+</head>
+<body>
+    <h1>Welcome! to My Website</h1>
+    <p>This is my first web page.</p>
+    <div>My name is Kotchanat Noyphan, 67030002</div>
+    <span>I was born and raised in</span>
+    <strong>Chanthaburi.</strong> 
+</body>
+</html>
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/bb5bdf06-b962-4580-bb2d-9609abaccde5)
 
 
 
