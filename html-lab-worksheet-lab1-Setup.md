@@ -49,7 +49,6 @@
    - ไปที่ File > Save หรือกด Ctrl+S
    - ตั้งชื่อไฟล์เป็น "test.html"
 2. พิมพ์โค้ด HTML พื้นฐาน:
-   ```html
    <!DOCTYPE html>
 <html>
 <head>
