@@ -87,6 +87,8 @@
 </html>
 ```
 - ภาพผลลัพธ์:
+
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/42e47835-ef7d-4a36-8b37-45d3409778cf)
 
 
